@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Kufi+Arabic:wght@100..900&display=swap");
+html {
+  font-family: "Noto Kufi Arabic", sans-serif !important;
+
+  direction: rtl;
+}
+body {
+  background-color: rgb(43, 37, 30);
+  color: white;
+}
+
+.MuiOutlinedInput-notchedOutline {
+  border-color: white !important;
+}
+.MuiInputBase-input {
+  color: white !important;
+}
+
+.MuiInputLabel-root {
+  color: white !important;
+}
+
+.MuiButton-root {
+  color: white !important;
+  border-color: white !important;
+}
+.MuiButton-root:hover {
+  background-color: rgb(43, 37, 30) !important;
+  color: white !important;
+}
+.MuiButton-root.Mui-disabled {
+  color: rgba(255, 255, 255, 0.5) !important;
+  border-color: rgba(255, 255, 255, 0.5) !important;
+}
+.MuiSelect-icon {
+  color: white !important;
+  fill: white !important;
+}
+.hi {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* ========== */
+
+@media screen and (max-width: 372px) {
+  h1 {
+    font-size: 40px;
+  }
+}
