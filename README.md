@@ -1,6 +1,3 @@
-بالطبع! إليك ملف `README.md` كامل واحترافي باللغة الإنجليزية لمشروع **Prayer Times Web App**، ويتضمن جميع الأقسام الأساسية:
-
----
 
 # 🕌 Prayer Times Web App
 
@@ -142,6 +139,3 @@ Feel free to open an **Issue** or submit a **Pull Request** for any improvements
 
 This project is open-source and available under the [MIT License](LICENSE).
 
----
-
-If you’d like me to customize the author info or GitHub repo link, just let me know!
