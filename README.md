@@ -1,6 +1,7 @@
 
 # 🕌 Prayer Times Web App
 
+
 A modern and responsive Arabic web application that displays daily prayer times across cities in Saudi Arabia with an elegant and user-friendly interface.
 
 🔗 [Live Demo](https://voluble-mooncake-375773.netlify.app/)
@@ -102,7 +103,7 @@ Prayer timings are fetched from the reliable [Aladhan API](https://aladhan.com/p
 
 ## 🖼️ Screenshots
 
-![App Screenshot](https://voluble-mooncake-375773.netlify.app/screenshot.png)
+![App Screenshot](https://voluble-mooncake-375773.netlify.app/Screenshot (138).png…]())
 *Main interface showing prayer times and remaining time*
 
 ---
